@@ -1,0 +1,23 @@
+{
+  "name": "algoritmos",
+  "version": "1.0.0",
+  "description": "Solucion de algoritmos e implementacion de tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gposso/algoritmos.git"
+  },
+  "keywords": [
+    "typescript",
+    "jest"
+  ],
+  "author": "Gilberto Posso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gposso/algoritmos/issues"
+  },
+  "homepage": "https://github.com/gposso/algoritmos#readme"
+}
