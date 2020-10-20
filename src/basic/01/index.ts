@@ -1,7 +1,7 @@
 function quadraticEquation(a: number, b: number, c: number): number[] | false {
     if (a === 0) return false;
 
-    const discriminant = (b ** 2) - (4 * a * c);
+    const discriminant: number = (b ** 2) - (4 * a * c);
     let solution: number[] | boolean = [];
 
     if (discriminant > 0) {
