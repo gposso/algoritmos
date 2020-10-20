@@ -16,8 +16,8 @@ npm test
 
 ## Algoritmos Básicos
 
-1. Pedir los coeficientes de una ecuación de 2º grado, y muestre sus soluciones reales. Si no existen, debe indicarlo. [Solución](/src/basic/01/README.md)
+1. Pedir los coeficientes de una ecuación de 2º grado, y muestre sus soluciones reales. Si no existen, debe indicarlo. [Solución](/src/basic/01/)
 
-2. Pedir el radio de un círculo y calcular su área. A = PI \* r ^ 2. [Solución](./src/basic/01/README.md). [Solución](/src/basic/02/README.md)
+2. Pedir el radio de un círculo y calcular su área. A = PI \* r ^ 2. [Solución](/src/basic/02/)
 
 3. Pedir el radio de una circunferencia y calcular su longitud. L = 2 \* PI \* r.
