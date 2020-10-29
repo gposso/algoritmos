@@ -38,7 +38,7 @@ npm test
 
 11. Pedir un número entre 0 y 9.999 y decir cuantas cifras tiene. [Solución](/src/basic/11/)
 
-12. Pedir un número entre 0 y 9.999 y mostrarlo con las cifras al revés.
+12. Pedir un número entre 0 y 9.999 y mostrarlo con las cifras al revés. [Solución](/src/basic/12/)
 
 13. Pedir un número entre 0 y 9.999, decir si es capicúa.
 
