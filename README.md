@@ -36,7 +36,7 @@ npm test
 
 10. Pedir tres números y mostrarlos ordenados de mayor a menor. [Solución](/src/basic/10/)
 
-11. Pedir un número entre 0 y 9.999 y decir cuantas cifras tiene.
+11. Pedir un número entre 0 y 9.999 y decir cuantas cifras tiene. [Solución](/src/basic/11/)
 
 12. Pedir un número entre 0 y 9.999 y mostrarlo con las cifras al revés.
 
