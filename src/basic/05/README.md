@@ -1,6 +1,6 @@
 # Ejercicio 05
 
-4. Pedir un número e indicar si es positivo o negativo.
+5. Pedir un número e indicar si es positivo o negativo.
 
 ## Ejecutar test
 
