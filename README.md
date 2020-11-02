@@ -40,7 +40,7 @@ npm test
 
 12. Pedir un número entre 0 y 9.999 y mostrarlo con las cifras al revés. [Solución](/src/basic/12/)
 
-13. Pedir un número entre 0 y 9.999, decir si es capicúa.
+13. Pedir un número entre 0 y 9.999, decir si es capicúa. [Solución](/src/basic/13/)
 
 14. Pedir una nota de 0 a 10 y mostrarla de la forma: Insuficiente, Suficiente, Bien...
 
