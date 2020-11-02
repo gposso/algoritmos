@@ -42,7 +42,7 @@ npm test
 
 13. Pedir un número entre 0 y 9.999, decir si es capicúa. [Solución](/src/basic/13/)
 
-14. Pedir una nota de 0 a 10 y mostrarla de la forma: Insuficiente, Suficiente, Bien...
+14. Pedir una nota de 0 a 10 y mostrarla de la forma: Insuficiente, Suficiente, Bien...[Solución](/src/basic/14/)
 
 15. Pedir el día, mes y año de una fecha e indicar si la fecha es correcta. Suponiendo todos los meses de 30 días.
 
