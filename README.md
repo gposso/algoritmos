@@ -52,7 +52,7 @@ npm test
 
 18. Ídem que el ej. 17, suponiendo que cada mes tiene un número distinto de días (suponer que febrero tiene siempre 28 días). [Solución](/src/basic/18/)
 
-19. Pedir dos fechas y mostrar el número de días que hay de diferencia. Suponiendo todos los meses de 30 días.
+19. Pedir dos fechas y mostrar el número de días que hay de diferencia. Suponiendo todos los meses de 30 días. [Solución](/src/basic/19/)
 
 20. Pedir una hora de la forma hora, minutos y segundos, y mostrar la hora en el segundo siguiente.
 
